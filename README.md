@@ -52,7 +52,7 @@ This projects shows the basic use of interacting with a Database via a Windows F
 
 ## Contact
 - Github: [BradyAdams2000](https:/github.com/BradyAdams2000)
-- Email: bradyadams3@mail.weber.edu
+- Email: ~~bradyadams3@mail.weber.edu~~
 
 ## Fun Facts
 - WIP
