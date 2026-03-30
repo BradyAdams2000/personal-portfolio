@@ -1,6 +1,5 @@
 Computer Science Student | Aspiring Software Engineer
 ---
-
 ## About Me
 - Computer Science Senior @ Weber State University
 - Interested in Software Development, Databases, automation, game development, etc.
@@ -37,7 +36,6 @@ This projects shows the basic use of interacting with a Database via a Windows F
 - Features a smooth and painless interaction with a SQL database, allowing for data persistence.
 [Demo Link](#)
 ---
-
 ### Goals
 - Build more polished full-stack projects
 - Strengthen Data structure and algorithms knowledge
@@ -56,3 +54,6 @@ This projects shows the basic use of interacting with a Database via a Windows F
 
 ## Fun Facts
 - WIP
+
+## Thank you
+- Thank you for looking at my personal portfolio, as you can tell, it is very incomplete, and is a work in progress.
